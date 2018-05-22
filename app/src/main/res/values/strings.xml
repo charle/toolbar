@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toolbar</string>
+    <string name="zoom_in">zoomin</string>
+    <string name="zoom_out">zoomout</string>
+</resources>

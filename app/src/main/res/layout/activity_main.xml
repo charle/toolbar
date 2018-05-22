@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.jingdu.toolbar.activity.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tb_tools"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#aa000000"
+        app:popupTheme="@style/OverflowMenuStyle"
+        app:contentInsetStart="0dp"
+        android:layout_alignParentTop="true">
+
+        <android.support.v7.widget.ActionMenuView
+            android:id="@+id/amv_actionMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left">
+        </android.support.v7.widget.ActionMenuView>
+    </android.support.v7.widget.Toolbar>
+
+</LinearLayout>
