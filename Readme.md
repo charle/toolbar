@@ -9,3 +9,7 @@
 - activity中实现菜单解析
 - menu布局文件中showAsAction全部设置成always
 - 根据toolbar的宽度设置ifRoom的个数
+
+更新android开发技术请关注微信公众号：
+
+![avatar](images/wechat.png)
