@@ -12,4 +12,4 @@
 
 更新android开发技术请关注微信公众号：
 
-![avatar](images/wechat.png)
+![avatar](images/wechat.jpg)
